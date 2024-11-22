@@ -1,6 +1,5 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil!
-### Esse sou eu 
-<img src="https://avatars.githubusercontent.com/MatheusChebel?v=4" alt="Minha Foto" width="150" height="150" style="border-radius: 50%; border: 3px solid #000;">
+### <<<<<<- Esse sou eu 
 
 ## 🚀 Sobre mim
 - 💼 Trabalho há 4 anos como **Suporte de TI** na **Capgemini**.
