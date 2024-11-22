@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu perfil!
+### Esse sou eu 
+<img src="https://avatars.githubusercontent.com/MatheusChebel?v=4" alt="Minha Foto" width="150" height="150" style="border-radius: 50%; border: 3px solid #000;">
 
-<!--
-**MatheusChebel/MatheusChebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 💼 Trabalho há 4 anos como **Suporte de TI** na **Capgemini**.
+- 🎯 Em transição de carreira para **Desenvolvedor FullStack**.
+- 📍 Moro na região do **ABC Paulista, SP**.
+- 🎓 Estudei **Ciência da Computação** por 4 anos.
+- 🎮 Apaixonado pela parte **gamer**!
 
-Here are some ideas to get you started:
+## 🌱 Atualmente aprendendo
+- 📚 **Ruby** e **Ruby on Rails**.
+- 🔜 Explorando mais sobre **Node.js** e outras tecnologias modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+### 🚀 Experiência:
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Em aprendizado:
+- ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+- ![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📊 Minhas estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusChebel&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusChebel&layout=compact&theme=radical)
+
+---
+
+Se precisar de algo, não hesite em me chamar! 😊
